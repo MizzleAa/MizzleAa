@@ -34,7 +34,15 @@
   
 </p>
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizzleaa&show_icons=true&theme=dark)](https://github.com/mizzleaa/github-readme-stats)
+-->
+
+<p align="center">
+  <a href="https://github.com/mizzleaa/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mizzleaa&show_icons=true&theme=dark"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp526"/>
