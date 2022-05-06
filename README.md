@@ -48,8 +48,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp526"/>
 </p>
 
-<!--
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp526)](https://solved.ac/ppp526)
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizzleaa&langs_count=10&layout=compact&theme=dark)](https://github.com/mizzleaa/mizzleaa)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzleaa&langs_count=10&layout=compact&theme=dark"/>
+</p>
