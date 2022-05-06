@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=556677&height=170&section=header&text=Mizzle%20Github&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=170&section=header&text=Mizzle%20Github&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -36,6 +36,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizzleaa&show_icons=true&theme=dark)](https://github.com/mizzleaa/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ppp526)](https://solved.ac/ppp526)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp526)](https://solved.ac/ppp526)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ppp526)](https://solved.ac/ppp526)
