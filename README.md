@@ -51,3 +51,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzleaa&langs_count=10&layout=compact&theme=dark"/>
 </p>
+
+<p align="center">
+  <img src="https://skyline.github.com/MizzleAa/2022"/>
+</p>
