@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/-Python-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Pytorch-green"/>&nbsp
   <img src="https://img.shields.io/badge/-MMDetection-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-MMDetection-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Django-green"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Vanilla_JS-blue"/>&nbsp
