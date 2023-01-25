@@ -17,8 +17,11 @@
   <img src="https://img.shields.io/badge/-Django-green"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Vanilla_JS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-NextJS-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-MariaDB-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-PostgreSQL-blue"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
