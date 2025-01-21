@@ -2,6 +2,7 @@
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
+<!--
 <h2 align="center">Technology</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 
 </p>
+-->
 
 <h3 align="center">•••</h3>
 
