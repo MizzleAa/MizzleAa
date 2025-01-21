@@ -30,16 +30,17 @@
 
 <h3 align="center">•••</h3>
 
+
 <p align="center">
   <a href="https://mizzlena.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://mizzlena.tistory.com"/></a>&nbsp
   <a href="mailto:mizzleaaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mizzleaaa@gmail.com"/></a>
   
 </p>
-
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mizzleaa&show_icons=true&theme=dark)](https://github.com/mizzleaa/github-readme-stats)
 -->
 
+<!--
 <p align="center">
   <a href="https://github.com/mizzleaa/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mizzleaa&show_icons=true&theme=dark"/>
@@ -53,6 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzleaa&langs_count=10&layout=compact&theme=dark"/>
 </p>
+-->
 
 <!--
 <p align="center">
